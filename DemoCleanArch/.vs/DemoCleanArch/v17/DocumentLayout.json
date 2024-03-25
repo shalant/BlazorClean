@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\infrastructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\applicationlayer\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB101F-6BE3-4BE5-821F-336242CE27CD}|DomainLayer\\DomainLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB101F-6BE3-4BE5-821F-336242CE27CD}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\gavinlonmovieblazor\\democleanarch\\infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:35:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\Contracts\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Contracts\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\Contracts\\IEmployee.cs",
+              "RelativeToolTip": "ApplicationLayer\\Contracts\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:29:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\DTOs\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\DTOs\\ServiceResponse.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:28:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\Entities\\Employee.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:26:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:15:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfrastructureLayer",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeToolTip": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T18:11:22.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
