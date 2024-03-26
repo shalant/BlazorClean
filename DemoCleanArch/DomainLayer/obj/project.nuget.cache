@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+au3/Yuuu2nCVkwCm5QOeBtECPu+O2Yb9mbYQLn/CQE1YWp9hvOP0x3aPk6EpKgbG1nysbEzMwL85HdlLyXCQ==",
+  "dgSpecHash": "j9X2T/O74f3Nipc3QVw5IY0fmDM2r9TPfPqtnRhoUA31y+NeQ2vlMqUx7pdIdqWbcb9N+1LvbQKG1upOOUqCtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

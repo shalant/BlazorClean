@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj": {}
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj",
         "projectName": "ApplicationLayer",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj",
         "projectName": "WebAssembly",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAssembly\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj"
+              "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\ApplicationLayer.csproj"
               }
             }
           }

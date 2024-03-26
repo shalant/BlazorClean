@@ -9,3 +9,15 @@ C:\Users\digdr\Documents\coding\gavinLonMovieBlazor\DemoCleanArch\DomainLayer\ob
 C:\Users\digdr\Documents\coding\gavinLonMovieBlazor\DemoCleanArch\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 C:\Users\digdr\Documents\coding\gavinLonMovieBlazor\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 C:\Users\digdr\Documents\coding\gavinLonMovieBlazor\DemoCleanArch\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\digdr\Documents\coding\BlazorClean\DemoCleanArch\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {}
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,50 +2,49 @@
 using ApplicationLayer.DTOs;
 using DomainLayer.Entities;
 using InfrastructureLayer.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace InfrastructureLayer.Implementation;
 
 public class EmployeeRepo : IEmployee
 {
-    private readonly AppDbContext _appDbContext;
+    private readonly AppDbContext appDbContext;
 
     public EmployeeRepo(AppDbContext appDbContext)
     {
-        appDbContext = _appDbContext;
+        this.appDbContext = appDbContext;
     }
 
     public async Task<ServiceResponse> AddAsync(Employee employee)
     {
-        _appDbContext.Employees.Add(employee);
+        appDbContext.Employees.Add(employee);
         await SaveChangesAsync();
+        return new ServiceResponse(true, "Added");
     }
 
     public async Task<ServiceResponse> DeleteAsync(int id)
     {
-        var employee = await _appDbContext.Employees.FindAsync(id);
+        var employee = await appDbContext.Employees.FindAsync(id);
         if(employee == null)
         {
             return new ServiceResponse(false, "User not found");
         }
 
-        _appDbContext.Employees.Remove(employee);
+        appDbContext.Employees.Remove(employee);
         await SaveChangesAsync();
+        return new ServiceResponse(true, "Deleted");
     }
 
-    public Task<List<ServiceResponse>> GetAsync()
+    public async Task<List<Employee>> GetAsync() => await appDbContext.Employees.AsNoTracking().ToListAsync();
+
+    public async Task<Employee> GetByIdAsync(int id) => await appDbContext.Employees.FindAsync(id);
+
+    public async Task<ServiceResponse> UpdateAsync(Employee employee)
     {
-        throw new NotImplementedException();
+        appDbContext.Update(employee);
+        await SaveChangesAsync();
+        return new ServiceResponse(true, "Updated");
     }
 
-    public Task<ServiceResponse> GetByIdAsync(int id)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<ServiceResponse> UpdateAsync(Employee employee)
-    {
-        throw new NotImplementedException();
-    }
-
-    private async Task SaveChangesAsync() => await _appDbContext.SaveChangesAsync();
+    private async Task SaveChangesAsync() => await appDbContext.SaveChangesAsync();
 }

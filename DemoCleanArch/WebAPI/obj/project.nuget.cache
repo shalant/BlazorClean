@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds2TYy+egMRisAbm4ziJOUn90Ejfw4W2C55u0LRwxsGhyb6h45gcIWN5Yx9yB8+TelucgFKjsQ7/XmLBEgWTlA==",
+  "dgSpecHash": "kcDxh0QgKgBHW75tYm9S9/sWWTl+QrwrhhNxxZILhX96oebkRJ5axxd/2OR3bsIkiQ8cjo5PyhNOVHtGMsq9Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digdr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

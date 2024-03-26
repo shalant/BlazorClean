@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbSrXA6oyErPdUEweiUN1OAQAnQ9usNoVj+XyM3mj6MGXHnSk0n4Wvc1V7/wupKAvY69zz6Pr5ykfNlifov1Hw==",
+  "dgSpecHash": "7/OC3Hkn0SGdBwsTCPdzy1e5M/osY2u++KiXQ9uIxcbB+iVz8jP2prDr+27+ri/fyb2A/K9k2bwBP5hhImB2jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\gavinLonMovieBlazor\\DemoCleanArch\\InfrastructureLayer\\InfrastructureLayer.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\InfrastructureLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digdr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
