@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoCleanArch",
+    "\\DemoCleanArch\\InfrastructureLayer",
+    "\\DemoCleanArch\\InfrastructureLayer\\Implementation"
+  ],
+  "SelectedNode": "\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+  "PreviewInSolutionExplorer": false
+}

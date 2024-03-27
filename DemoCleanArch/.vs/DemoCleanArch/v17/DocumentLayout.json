@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67783916-602D-4AEE-A2AD-7899638D075C}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\implementation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1B211382-25FF-44C1-BE79-C28148860994}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\infrastructurelayer\\migrations\\20240325210932_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\migrations\\20240325210932_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A8A37D2-5BB1-455D-974D-CD828198CB7D}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AC3B373-C49F-4793-A483-BF62F9DEB443}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\digdr\\documents\\coding\\blazorclean\\democleanarch\\infrastructurelayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,40 +62,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:16:47Z",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssembly\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAssembly\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T16:38:19.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240325210932_First.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Migrations\\20240325210932_First.cs",
-              "RelativeDocumentMoniker": "InfrastructureLayer\\Migrations\\20240325210932_First.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Migrations\\20240325210932_First.cs",
-              "RelativeToolTip": "InfrastructureLayer\\Migrations\\20240325210932_First.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T16:35:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAssembly\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAssembly\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T16:28:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\Program.cs",
+              "RelativeToolTip": "WebAssembly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:09:33.045Z",
+              "WhenOpened": "2024-03-27T16:25:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:50:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:35:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAABBwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:16:47Z",
               "EditorCaption": ""
             },
             {
@@ -90,14 +167,14 @@
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T20:48:48.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -110,33 +187,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
-              "RelativeDocumentMoniker": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
-              "RelativeToolTip": "InfrastructureLayer\\Implementation\\EmployeeRepo.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:35:50.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IEmployee.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\Contracts\\IEmployee.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Contracts\\IEmployee.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\Contracts\\IEmployee.cs",
               "RelativeToolTip": "ApplicationLayer\\Contracts\\IEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T18:29:37.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\InfrastructureLayer\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\AppDbContext.cs",
@@ -144,11 +208,12 @@
               "RelativeToolTip": "InfrastructureLayer\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:15:45.021Z"
+              "WhenOpened": "2024-03-25T18:15:45.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\DomainLayer\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Entities\\Employee.cs",
@@ -156,11 +221,12 @@
               "RelativeToolTip": "DomainLayer\\Entities\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:26:14.509Z"
+              "WhenOpened": "2024-03-25T18:26:14.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ServiceResponse.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\ApplicationLayer\\DTOs\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\ServiceResponse.cs",
@@ -168,7 +234,8 @@
               "RelativeToolTip": "ApplicationLayer\\DTOs\\ServiceResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:28:13.3Z"
+              "WhenOpened": "2024-03-25T18:28:13.3Z",
+              "EditorCaption": ""
             }
           ]
         }

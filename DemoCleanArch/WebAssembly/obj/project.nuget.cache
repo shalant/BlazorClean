@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H3BfQXoqn3xgyCgi261rP9Xc9YvsGbQkCUjv+Au9mTiO3iVyT5MdVwW/OHxQagHoXnAC/S9DLIhNmMdf3Lzolg==",
+  "dgSpecHash": "BvaO+t7TsNnAGBSdZ0m7MNBfjwS4oJMoyV2vrAMlhkitAv6EifWEWSLP1cPwk4+YwMxctpeyN+t2JRpzadPo4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorClean\\DemoCleanArch\\WebAssembly\\WebAssembly.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.3\\microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "C:\\Users\\digdr\\.nuget\\packages\\netcodehub.packages.components.validations\\1.0.1\\netcodehub.packages.components.validations.1.0.1.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
